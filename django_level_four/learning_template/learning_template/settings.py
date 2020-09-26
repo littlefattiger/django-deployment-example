@@ -25,7 +25,7 @@ SECRET_KEY = 'd7cnp_qydd9m^in^-h0%sg+9k)vxnnj)s%2r=l9q)04xnc^y!!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jclin.pythonanywhere.com',]
 
 
 # Application definition
